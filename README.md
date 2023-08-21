@@ -21,7 +21,7 @@
 스터디 진행 기간 : 2023/03/06 ~ ING
 
 ## 2. 스터디 규칙
-노션 링크 참조 : [스터디규칙](https://literate-ixora-e27.notion.site/CS-Rule-f9087252bc0841c793069abc79708ca0)
+노션 링크 참조 : [스터디규칙](https://drive.google.com/file/d/1zohyXOeKEVuLSj3aaNMCwXUE2u3wwb_H/view?usp=sharing)
 
 ## 3. 기업별 코테 일정
 |기업|일정|
